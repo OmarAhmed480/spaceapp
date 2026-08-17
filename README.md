@@ -1,16 +1,32 @@
-# spaceapp
+# 🚀 Space App
 
-A new Flutter project.
+A simple **Flutter Space App** for exploring planets and viewing detailed information about each planet.
 
-## Getting Started
+## ✨ Features
 
-This project is a starting point for a Flutter application.
+* 🪐 Browse planets
+* 🔭 View planet details
+* 🧭 Navigate between screens
+* ♻️ Reusable Flutter widgets
+* 📱 Clean and responsive UI
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Technologies
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+* 💙 Flutter
+* 🎯 Dart
+* 🎨 Material Design
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 Getting Started
+
+```bash
+flutter pub get
+flutter run
+```
+
+## 🎯 Project Goal
+
+This project was built to practice **Flutter navigation, screen design, reusable widgets, dynamic data, and responsive user interfaces**.
+
+## 👨‍💻 Developer
+
+**Omar Ahmed** — Flutter Developer
